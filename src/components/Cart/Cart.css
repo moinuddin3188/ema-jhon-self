@@ -1,0 +1,16 @@
+.cart h3{
+    margin-left: 40px;
+}
+.cart p {
+    margin-left: 48px;
+}
+.cart table {
+    font-size: 13px;
+}
+.cart table td {
+    width: 130px;
+}
+.cart h4 {
+    font-size: 20px;
+    color: brown;
+}
